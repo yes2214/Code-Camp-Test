@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname + '/home2.html');
 }
 app.listen(port, () =>){
-  res.sendFile(__dirname + '/');
+  res.sendFile(__dirname + '/Ingredients');
 });
 console.log(`Example app listening at http://localhost:${port}`);
 });
