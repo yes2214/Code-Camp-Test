@@ -9,5 +9,9 @@ app.listen(port, () =>){
 });
 console.log(`Example app listening at http://localhost:${port}`);
 });
-
+  <nav>
+    <a href="/home.html"
+    <a href="/home2.html"
+    <a href="/home3.html"
+  </nav>
 
